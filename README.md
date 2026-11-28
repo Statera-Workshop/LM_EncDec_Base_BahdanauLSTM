@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-lm_encdec_base_bahdanaulstm)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # LM_EncDec_Base_BahdanauLSTM
 
 Encoder-decoder translation model ported from legacy TF2 code C4 to PyTorch (cell=lstm, attention=bahdanau).
